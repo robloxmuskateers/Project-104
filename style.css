@@ -1,0 +1,18 @@
+body {
+    background: lightgoldenrodyellow;
+}
+
+.name_of_objects {
+    color: lightsalmon;
+}
+
+#camera {
+    border: dashed;
+    width: 350px;
+    height: 300px;
+}
+
+#captured_image {
+    width: 350px;
+    height: 300px;
+}
